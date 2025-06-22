@@ -1,4 +1,4 @@
-# Abhishek Kushwaha Data Science Portfolio
+# Abhishek Kushwaha - Data Science Portfolio
 
 Welcome to my personal Data Science learning portfolio!  
 This repository showcases my practical journey as I learn and apply Python, SQL, Tableau, and Statistics — all foundational tools in Data Science and Generative AI.
