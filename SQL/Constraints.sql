@@ -37,7 +37,12 @@ select*from temp2;
 -- 5: DEFAULT : 
 # set the value as default
 
+
 create table temp3(salary int default 20000,name varchar(20));
 #lets see by giving only name
 insert into temp3 (name) values(" ved prakash");
 select*from temp3; # salary has been added 20000 as default
+insert into temp3 (name) values("abhishek ");
+
+
+
