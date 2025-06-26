@@ -45,4 +45,16 @@ select*from temp3; # salary has been added 20000 as default
 insert into temp3 (name) values("abhishek ");
 
 
+# 6: CHECK: it can check the limit to the column. its like condition if true then execute or not . just like if - else
+
+create table temp4(
+order_id int primary key,
+Price int not null ,
+quantity int not  null,
+constraint min_quantity check(quantity>=1) # the quantity is now limited that it should be greater than or equal to 1
+);
+
+insert into temp4 values(2511241, 120, 1);
+insert into temp4 values(2511242, 127, 0); # the quantity is 0 hence it voilets the requirement so will not executed here.
+select*from temp4;
 
