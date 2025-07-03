@@ -55,3 +55,5 @@ select Name ,Salary from Employee order by Salary desc limit 1;
 select Name ,City , Salary from Employee where Salary=(select min(Salary) from Employee);
 select Name, City, Salary from Employee order by Salary asc limit 1;
 
+-- AVG: 
+select avg(salary) from Employee;
