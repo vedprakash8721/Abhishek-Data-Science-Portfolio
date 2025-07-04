@@ -65,3 +65,35 @@ end
 where Cap_num in (117,120);
 
 select*from Players;
+alter table Players
+add column Grade varchar(2);
+
+
+# to turn off the safe mode
+set sql_safe_updates=0; # 0 for off 1 for on
+
+
+
+update Players
+set Grade ="A+"
+where Avg >50;
+
+update Players
+set Grade ="A"
+where Avg between 35 and 50;
+select*from Players;
+
+update Players
+set Grade ="B"
+where Avg between 35 and 38;
+update Players
+set Grade ="C"
+where Avg <35;
+select*from Players;
+
+# some arithmetic operaions 
+update Players
+set Avg=Avg+1;
+update Players
+set Avg=Avg-1;
+
