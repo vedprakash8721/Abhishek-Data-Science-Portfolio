@@ -21,3 +21,18 @@ select * from Players;
 # now delete the column
 alter table Players
 drop column yuhi;
+
+-- rename table name: 
+/* 
+sytax:
+alter table table_name
+rename to new_table_name
+*/
+#lets change the name of the table players to player
+alter table Players
+rename to Player;
+select*from Player;
+-- now lets regain it
+alter table Player
+rename to Players;
+select*from Players;
