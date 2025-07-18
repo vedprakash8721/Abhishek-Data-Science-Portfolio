@@ -36,3 +36,8 @@ select*from Player;
 alter table Player
 rename to Players;
 select*from Players;
+
+
+-- to modify data type or constraints of the column
+alter table Players
+modify age int;
