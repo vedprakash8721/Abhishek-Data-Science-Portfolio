@@ -1,0 +1,15 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# E-commerce project data
+SQL/SQL PRACTICE/E-COMMERCE/data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
