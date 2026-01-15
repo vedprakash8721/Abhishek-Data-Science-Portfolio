@@ -3,3 +3,6 @@
 *.xlsx
 *.parquet
 *.zip
+*.wal
+*.shm
+*.db-journal
