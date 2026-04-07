@@ -12,7 +12,7 @@ Century int ,
 Avg int );
 
 select* from Players;
-# i fon't want to use some of them so i am firstly deleting the Players table and initialize it again
+# i don't want to use some of them so i am firstly deleting the Players table and initialize it again
 drop table Players;
 
 -- DELETE  : important note: when you are deleting anything from the database then make sure about syntax because once the data is deleted it can not be undo
@@ -30,7 +30,7 @@ set sql_safe_updates=0;
 update Players
 set Avg=0
 where Cap_num=109;
-# so like this we can update or delete anything from database .
+# so like this we can update or delete anything from database
 update Players
 set Avg=24
 where Cap_num=109;

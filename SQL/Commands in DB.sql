@@ -4,3 +4,26 @@
 # 3:  DQL : data query language: ( select )
 # 4: DCL : data control language: ( grant and revoke , used to grant the users )
 #5: TCL : transaction control language: ( start, commit, rollback )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
