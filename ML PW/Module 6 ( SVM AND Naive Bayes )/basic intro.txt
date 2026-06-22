@@ -1,0 +1,10 @@
+Support Vector Machine (SVM) is a model that draws a boundary (line/hyperplane) to separate classes.
+It tries to keep this boundary as far as possible from the closest data points.
+
+
+SVM goes further → it finds the best possible separation with maximum margin → better generalization and less overfitting.
+Hard Margin SVM → assumes data is perfectly separable (no mistakes allowed)
+Soft Margin SVM → allows some mistakes to handle real-world noisy data
+
+Support Vector Machine (SVM) is a supervised machine learning algorithm used for classification and regression, though it is mostly famous for classification.
+
