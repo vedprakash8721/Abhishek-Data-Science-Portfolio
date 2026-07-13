@@ -85,7 +85,3 @@ where email like '%@company.com';
 -- Q20. Write an SQL query to display all employees sorted by salary in descending order.
 select * from employees
 order by salary desc;
-
-siohjgi
-
-fjkghigh
