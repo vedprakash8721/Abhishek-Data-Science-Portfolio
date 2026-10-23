@@ -1,0 +1,280 @@
+[33ma747d4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m refs/remotes/origin/main@{0}: update by push
+[33ma747d4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m refs/heads/main@{0}: commit: Subquery
+[33ma747d4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: commit: Subquery
+[33ma500641[m refs/heads/main@{1}: commit: Group by and Having Clause till Que:59
+[33ma500641[m HEAD@{1}: commit: Group by and Having Clause till Que:59
+[33m04f714d[m refs/remotes/origin/main@{1}: update by push
+[33m04f714d[m refs/heads/main@{2}: commit: List
+[33m04f714d[m HEAD@{2}: commit: List
+[33m1f0139c[m refs/remotes/origin/main@{2}: update by push
+[33m1f0139c[m refs/heads/main@{3}: commit: String Coding
+[33m1f0139c[m HEAD@{3}: commit: String Coding
+[33m1084704[m refs/heads/main@{4}: commit: Function
+[33m1084704[m HEAD@{4}: commit: Function
+[33m8e78429[m refs/heads/main@{5}: commit: Python
+[33m8e78429[m HEAD@{5}: commit: Python
+[33mb425c90[m refs/heads/main@{6}: commit: Resume based question
+[33mb425c90[m HEAD@{6}: commit: Resume based question
+[33m6d927d8[m refs/heads/main@{7}: commit: Group by and Having Clause
+[33m6d927d8[m HEAD@{7}: commit: Group by and Having Clause
+[33mfde5985[m refs/remotes/origin/main@{3}: update by push
+[33mfde5985[m refs/heads/main@{8}: commit: JOIN
+[33mfde5985[m HEAD@{8}: commit: JOIN
+[33m321477d[m refs/remotes/origin/main@{4}: update by push
+[33m321477d[m refs/heads/main@{9}: commit: Basic Function
+[33m321477d[m HEAD@{9}: commit: Basic Function
+[33m3ce918e[m refs/remotes/origin/main@{5}: update by push
+[33m3ce918e[m refs/heads/main@{10}: commit: EDA
+[33m3ce918e[m HEAD@{10}: commit: EDA
+[33ma1338ce[m refs/remotes/origin/main@{6}: update by push
+[33ma1338ce[m refs/heads/main@{11}: commit: Data Preprocessing
+[33ma1338ce[m HEAD@{11}: commit: Data Preprocessing
+[33m97b9fe3[m refs/heads/main@{12}: commit: Mathematics for ML
+[33m97b9fe3[m HEAD@{12}: commit: Mathematics for ML
+[33ma054fdf[m refs/heads/main@{13}: commit: ML Concept Like Concept drift and data drift
+[33ma054fdf[m HEAD@{13}: commit: ML Concept Like Concept drift and data drift
+[33mf38d1e5[m refs/heads/main@{14}: commit: Machine Learning Fundamentals
+[33mf38d1e5[m HEAD@{14}: commit: Machine Learning Fundamentals
+[33m4fc934f[m refs/remotes/origin/main@{7}: update by push
+[33m4fc934f[m refs/heads/main@{15}: commit: joins
+[33m4fc934f[m HEAD@{15}: commit: joins
+[33m897d717[m refs/remotes/origin/main@{8}: update by push
+[33m897d717[m refs/heads/main@{16}: commit: Basic Concepts of ML
+[33m897d717[m HEAD@{16}: commit: Basic Concepts of ML
+[33m4d36b9b[m refs/remotes/origin/main@{9}: update by push
+[33m4d36b9b[m refs/heads/main@{17}: commit: Kmeans Clustering implementation
+[33m4d36b9b[m HEAD@{17}: commit: Kmeans Clustering implementation
+[33m9899183[m refs/remotes/origin/main@{10}: update by push
+[33m9899183[m refs/heads/main@{18}: commit: Moving DB files
+[33m9899183[m HEAD@{18}: commit: Moving DB files
+[33m62005f6[m refs/heads/main@{19}: commit: Arranging ML files
+[33m62005f6[m HEAD@{19}: commit: Arranging ML files
+[33mf67c523[m refs/heads/main@{20}: commit: Arranging Files
+[33mf67c523[m HEAD@{20}: commit: Arranging Files
+[33m11c641a[m refs/remotes/origin/main@{11}: update by push
+[33m11c641a[m refs/heads/main@{21}: commit: Dbscan
+[33m11c641a[m HEAD@{21}: commit: Dbscan
+[33m7416930[m refs/heads/main@{22}: commit: hierarchical clustering
+[33m7416930[m HEAD@{22}: commit: hierarchical clustering
+[33m6c9d2da[m refs/heads/main@{23}: commit: K means clustering
+[33m6c9d2da[m HEAD@{23}: commit: K means clustering
+[33m1f832f8[m refs/remotes/origin/main@{12}: update by push
+[33m1f832f8[m refs/heads/main@{24}: commit: implementation of PCA
+[33m1f832f8[m HEAD@{24}: commit: implementation of PCA
+[33mb7c8a10[m refs/heads/main@{25}: commit: PCA: Curse of Dimensionality ( Theory )
+[33mb7c8a10[m HEAD@{25}: commit: PCA: Curse of Dimensionality ( Theory )
+[33m3e0b064[m refs/remotes/origin/main@{13}: update by push
+[33m3e0b064[m refs/heads/main@{26}: commit: KNN Classifier implementation
+[33m3e0b064[m HEAD@{26}: commit: KNN Classifier implementation
+[33m5d19a29[m refs/heads/main@{27}: commit: PCA Introduction
+[33m5d19a29[m HEAD@{27}: commit: PCA Introduction
+[33m0e33240[m refs/heads/main@{28}: commit: KNN theory
+[33m0e33240[m HEAD@{28}: commit: KNN theory
+[33m59ed145[m refs/remotes/origin/main@{14}: update by push
+[33m59ed145[m refs/heads/main@{29}: commit: Till Question no 38
+[33m59ed145[m HEAD@{29}: commit: Till Question no 38
+[33mca625d0[m refs/remotes/origin/main@{15}: update by push
+[33mca625d0[m refs/heads/main@{30}: commit: aggregate function with subquery and window function
+[33mca625d0[m HEAD@{30}: commit: aggregate function with subquery and window function
+[33m426bf33[m refs/remotes/origin/main@{16}: update by push
+[33m426bf33[m refs/heads/main@{31}: commit: Control flow and basic code
+[33m426bf33[m HEAD@{31}: commit: Control flow and basic code
+[33m2e014e8[m refs/heads/main@{32}: commit: operator and i/o
+[33m2e014e8[m HEAD@{32}: commit: operator and i/o
+[33m89990bb[m refs/remotes/origin/main@{17}: update by push
+[33m89990bb[m refs/heads/main@{33}: commit: Data Types
+[33m89990bb[m HEAD@{33}: commit: Data Types
+[33mb6fa538[m refs/remotes/origin/main@{18}: update by push
+[33mb6fa538[m refs/heads/main@{34}: commit: Fundamental of Python
+[33mb6fa538[m HEAD@{34}: commit: Fundamental of Python
+[33ma7ffcfb[m refs/remotes/origin/main@{19}: update by push
+[33ma7ffcfb[m refs/heads/main@{35}: commit: Implementation of xgboost
+[33ma7ffcfb[m HEAD@{35}: commit: Implementation of xgboost
+[33mee7d06f[m refs/heads/main@{36}: commit: Gradient Boosting Regressor
+[33mee7d06f[m HEAD@{36}: commit: Gradient Boosting Regressor
+[33m6815c7e[m refs/remotes/origin/main@{20}: update by push
+[33m6815c7e[m refs/heads/main@{37}: commit: Implementation of AdaBoost Algo
+[33m6815c7e[m HEAD@{37}: commit: Implementation of AdaBoost Algo
+[33m103f0e7[m refs/heads/main@{38}: commit: Basic Theory for Boosting
+[33m103f0e7[m HEAD@{38}: commit: Basic Theory for Boosting
+[33mf16b7e1[m refs/remotes/origin/main@{21}: update by push
+[33mf16b7e1[m refs/heads/main@{39}: commit: Filtering and Conditions ( till Qno 30 )
+[33mf16b7e1[m HEAD@{39}: commit: Filtering and Conditions ( till Qno 30 )
+[33m51b9075[m refs/heads/main@{40}: commit: 20 Basic Question
+[33m51b9075[m HEAD@{40}: commit: 20 Basic Question
+[33m7354bae[m refs/heads/main@{41}: commit: SQL basic and query
+[33m7354bae[m HEAD@{41}: commit: SQL basic and query
+[33m23250be[m refs/remotes/origin/main@{22}: update by push
+[33m23250be[m refs/heads/main@{42}: commit: Theory and Implementation of OOB score
+[33m23250be[m HEAD@{42}: commit: Theory and Implementation of OOB score
+[33m87ee86b[m refs/heads/main@{43}: commit: Prepared Database and table for interview question and query
+[33m87ee86b[m HEAD@{43}: commit: Prepared Database and table for interview question and query
+[33mc2464c6[m refs/remotes/origin/main@{23}: update by push
+[33mc2464c6[m refs/heads/main@{44}: commit: Implemented Random Forest Classifier with Hyperparameter tuning
+[33mc2464c6[m HEAD@{44}: commit: Implemented Random Forest Classifier with Hyperparameter tuning
+[33md0bac0d[m refs/heads/main@{45}: commit: Fixed syntax of accuracy ( y_test,y_pred) previous was ( y_pred,y_test) by mistake
+[33md0bac0d[m HEAD@{45}: commit: Fixed syntax of accuracy ( y_test,y_pred) previous was ( y_pred,y_test) by mistake
+[33mdc99b58[m refs/heads/main@{46}: commit: Implementation of Multiple Model Training with Pipeline and Column Transformer
+[33mdc99b58[m HEAD@{46}: commit: Implementation of Multiple Model Training with Pipeline and Column Transformer
+[33m7a7bb16[m refs/remotes/origin/main@{24}: update by push
+[33m7a7bb16[m refs/heads/main@{47}: commit: Implementation of Bagging Regressor
+[33m7a7bb16[m HEAD@{47}: commit: Implementation of Bagging Regressor
+[33mcc734e2[m refs/heads/main@{48}: commit: Implementation of Bagging Classifier
+[33mcc734e2[m HEAD@{48}: commit: Implementation of Bagging Classifier
+[33mc727c41[m refs/heads/main@{49}: commit: Introduction Of Ensemble Technique
+[33mc727c41[m HEAD@{49}: commit: Introduction Of Ensemble Technique
+[33md6bceca[m refs/remotes/origin/main@{25}: update by push
+[33md6bceca[m refs/heads/main@{50}: commit: Implementation of Gaussian Naive Bayes
+[33md6bceca[m HEAD@{50}: commit: Implementation of Gaussian Naive Bayes
+[33m5a9d073[m refs/heads/main@{51}: commit: SVM kernels with hyparameter tuning
+[33m5a9d073[m HEAD@{51}: commit: SVM kernels with hyparameter tuning
+[33mc154d07[m refs/remotes/origin/main@{26}: update by push
+[33mc154d07[m refs/heads/main@{52}: commit: Support Vector Regressor with hyperparameter tuning
+[33mc154d07[m HEAD@{52}: commit: Support Vector Regressor with hyperparameter tuning
+[33mc54db7b[m refs/heads/main@{53}: commit: SVC with Hyperparameter tuning
+[33mc54db7b[m HEAD@{53}: commit: SVC with Hyperparameter tuning
+[33m2d2c2c6[m refs/heads/main@{54}: commit: Revisiting the code
+[33m2d2c2c6[m HEAD@{54}: commit: Revisiting the code
+[33ma54f2ca[m refs/remotes/origin/main@{27}: update by push
+[33ma54f2ca[m refs/heads/main@{55}: commit: Sub SQL Query
+[33ma54f2ca[m HEAD@{55}: commit: Sub SQL Query
+[33mdcf3d00[m refs/remotes/origin/main@{28}: update by push
+[33mdcf3d00[m refs/heads/main@{56}: commit: Sub SQL Query
+[33mdcf3d00[m HEAD@{56}: commit: Sub SQL Query
+[33m9c682d9[m refs/heads/main@{57}: commit: Window Function: lag( ) and lead( )
+[33m9c682d9[m HEAD@{57}: commit: Window Function: lag( ) and lead( )
+[33m30a15b2[m refs/remotes/origin/main@{29}: update by push
+[33m30a15b2[m refs/heads/main@{58}: commit: WINDOW FUNCTION: row_number( ) , rank ( ) , dense_rank( )
+[33m30a15b2[m HEAD@{58}: commit: WINDOW FUNCTION: row_number( ) , rank ( ) , dense_rank( )
+[33m7c4f96b[m refs/heads/main@{59}: commit: Revisiting the code
+[33m7c4f96b[m HEAD@{59}: commit: Revisiting the code
+[33m10b063f[m refs/heads/main@{60}: commit: Built in function
+[33m10b063f[m HEAD@{60}: commit: Built in function
+[33mc5a8c37[m refs/heads/main@{61}: commit: All joins is covered
+[33mc5a8c37[m HEAD@{61}: commit: All joins is covered
+[33me2f9a20[m refs/remotes/origin/main@{30}: update by push
+[33me2f9a20[m refs/heads/main@{62}: commit: Revisiting The Code
+[33me2f9a20[m HEAD@{62}: commit: Revisiting The Code
+[33m3a91f14[m refs/remotes/origin/main@{31}: update by push
+[33m3a91f14[m refs/heads/main@{63}: commit: Revisiting Code
+[33m3a91f14[m HEAD@{63}: commit: Revisiting Code
+[33m380b6f1[m refs/remotes/origin/main@{32}: update by push
+[33m380b6f1[m refs/heads/main@{64}: commit: SVM
+[33m380b6f1[m HEAD@{64}: commit: SVM
+[33mf9a065b[m refs/heads/main@{65}: commit: DT regressor with hyperparametertuning
+[33mf9a065b[m HEAD@{65}: commit: DT regressor with hyperparametertuning
+[33mb88a8f1[m refs/remotes/origin/main@{33}: update by push
+[33mb88a8f1[m refs/heads/main@{66}: commit: implemented Decision Tree , with hyperparametertuning on classification
+[33mb88a8f1[m HEAD@{66}: commit: implemented Decision Tree , with hyperparametertuning on classification
+[33m34c2830[m refs/heads/main@{67}: commit: Sql queries
+[33m34c2830[m HEAD@{67}: commit: Sql queries
+[33mfd382de[m refs/heads/main@{68}: commit: Files allignment
+[33mfd382de[m HEAD@{68}: commit: Files allignment
+[33mebfe2a0[m refs/heads/main@{69}: commit: order by
+[33mebfe2a0[m HEAD@{69}: commit: order by
+[33m3ba50fa[m refs/heads/main@{70}: commit: Order by clause done
+[33m3ba50fa[m HEAD@{70}: commit: Order by clause done
+[33mbc4da0d[m refs/heads/main@{71}: commit: Testing the connection of database between vscode and mysql
+[33mbc4da0d[m HEAD@{71}: commit: Testing the connection of database between vscode and mysql
+[33me271dea[m refs/heads/main@{72}: commit: Decision Tree using gini
+[33me271dea[m HEAD@{72}: commit: Decision Tree using gini
+[33mfe25d44[m refs/heads/main@{73}: commit: review in old query
+[33mfe25d44[m HEAD@{73}: commit: review in old query
+[33mf39c221[m refs/remotes/origin/main@{34}: update by push
+[33mf39c221[m refs/heads/main@{74}: commit: Multiclass Logistic Regression
+[33mf39c221[m HEAD@{74}: commit: Multiclass Logistic Regression
+[33m5e07b27[m refs/heads/main@{75}: commit: Logistic Regression with Hyperparametertuning ( GridsearchCV )
+[33m5e07b27[m HEAD@{75}: commit: Logistic Regression with Hyperparametertuning ( GridsearchCV )
+[33m39417dc[m refs/heads/main@{76}: commit: Build Sequential model using linear activation function and relu( rectified linear unit) and checked accuracy
+[33m39417dc[m HEAD@{76}: commit: Build Sequential model using linear activation function and relu( rectified linear unit) and checked accuracy
+[33m313825c[m refs/heads/main@{77}: commit: Calculate Precision,Recall,Accuracy with Different threshold probabilities
+[33m313825c[m HEAD@{77}: commit: Calculate Precision,Recall,Accuracy with Different threshold probabilities
+[33mdb40d2a[m refs/heads/main@{78}: commit: roc_auc curve
+[33mdb40d2a[m HEAD@{78}: commit: roc_auc curve
+[33m70e544a[m refs/heads/main@{79}: commit: Deep learning Modul 1
+[33m70e544a[m HEAD@{79}: commit: Deep learning Modul 1
+[33m4cec6e3[m refs/remotes/origin/main@{35}: update by push
+[33m4cec6e3[m refs/heads/main@{80}: commit: Basic DSA practice
+[33m4cec6e3[m HEAD@{80}: commit: Basic DSA practice
+[33m8e4e6ce[m refs/heads/main@{81}: commit: LR
+[33m8e4e6ce[m HEAD@{81}: commit: LR
+[33m096404a[m refs/heads/main@{82}: commit: mechanism of Neural Network
+[33m096404a[m HEAD@{82}: commit: mechanism of Neural Network
+[33med691f0[m refs/heads/main@{83}: commit: GridSearchCV using ElasticNet
+[33med691f0[m HEAD@{83}: commit: GridSearchCV using ElasticNet
+[33mc74be33[m refs/heads/main@{84}: commit: RandomisedSearchCV using Lasso
+[33mc74be33[m HEAD@{84}: commit: RandomisedSearchCV using Lasso
+[33m37be89d[m refs/heads/main@{85}: commit: GridSearchCV
+[33m37be89d[m HEAD@{85}: commit: GridSearchCV
+[33m241d00a[m refs/heads/main@{86}: commit: Regularization
+[33m241d00a[m HEAD@{86}: commit: Regularization
+[33m2144ad3[m refs/heads/main@{87}: commit: SLR
+[33m2144ad3[m HEAD@{87}: commit: SLR
+[33m2592bd0[m refs/heads/main@{88}: commit: Moving in Where it belongs
+[33m2592bd0[m HEAD@{88}: commit: Moving in Where it belongs
+[33mcffc65b[m refs/remotes/origin/main@{36}: update by push
+[33mcffc65b[m refs/heads/main@{89}: commit: Ridge Regression ( alpha=5)
+[33mcffc65b[m HEAD@{89}: commit: Ridge Regression ( alpha=5)
+[33mb30c463[m refs/remotes/origin/main@{37}: update by push
+[33mb30c463[m refs/heads/main@{90}: commit: s25
+[33mb30c463[m HEAD@{90}: commit: s25
+[33me948965[m refs/remotes/origin/main@{38}: update by push
+[33me948965[m refs/heads/main@{91}: commit: Performiing Regularization on SEABORN "mpg"
+[33me948965[m HEAD@{91}: commit: Performiing Regularization on SEABORN "mpg"
+[33mec81a61[m refs/remotes/origin/main@{39}: update by push
+[33mec81a61[m refs/heads/main@{92}: commit: s24
+[33mec81a61[m HEAD@{92}: commit: s24
+[33m2ad93b6[m refs/remotes/origin/main@{40}: update by push
+[33m2ad93b6[m refs/heads/main@{93}: commit: s23
+[33m2ad93b6[m HEAD@{93}: commit: s23
+[33mf761be7[m refs/remotes/origin/main@{41}: update by push
+[33mf761be7[m refs/heads/main@{94}: commit: s22
+[33mf761be7[m HEAD@{94}: commit: s22
+[33mc33454c[m refs/remotes/origin/main@{42}: update by push
+[33mc33454c[m refs/heads/main@{95}: commit: tree based
+[33mc33454c[m HEAD@{95}: commit: tree based
+[33m413f748[m refs/remotes/origin/main@{43}: update by push
+[33m413f748[m refs/heads/main@{96}: commit: Multicollinearity
+[33m413f748[m HEAD@{96}: commit: Multicollinearity
+[33m8fb1712[m refs/remotes/origin/main@{44}: update by push
+[33m8fb1712[m refs/heads/main@{97}: commit: s21
+[33m8fb1712[m HEAD@{97}: commit: s21
+[33mfc46c3a[m refs/remotes/origin/main@{45}: update by push
+[33mfc46c3a[m refs/heads/main@{98}: commit: Logistic Regression Basics
+[33mfc46c3a[m HEAD@{98}: commit: Logistic Regression Basics
+[33m01c6505[m refs/remotes/origin/main@{46}: update by push
+[33m01c6505[m refs/heads/main@{99}: commit: Python Basic Revision
+[33m01c6505[m HEAD@{99}: commit: Python Basic Revision
+[33mabd7aa9[m refs/remotes/origin/main@{47}: update by push
+[33mabd7aa9[m refs/heads/main@{100}: commit: OUTER JOIN
+[33mabd7aa9[m HEAD@{100}: commit: OUTER JOIN
+[33m94a38cf[m refs/remotes/origin/main@{48}: update by push
+[33m94a38cf[m refs/heads/main@{101}: commit: LEFT OUTER JOIN
+[33m94a38cf[m HEAD@{101}: commit: LEFT OUTER JOIN
+[33mf9b3e23[m refs/heads/main@{102}: commit: INNER JOIN
+[33mf9b3e23[m HEAD@{102}: commit: INNER JOIN
+[33m43f7bfe[m refs/heads/main@{103}: commit: Performed Table Related Query
+[33m43f7bfe[m HEAD@{103}: commit: Performed Table Related Query
+[33m2eaeeb8[m refs/remotes/origin/main@{49}: update by push
+[33m2eaeeb8[m refs/heads/main@{104}: commit: aggregate function
+[33m2eaeeb8[m HEAD@{104}: commit: aggregate function
+[33m0ffeaf9[m refs/heads/main@{105}: commit: SELECT AND ORDER BY CLAUSE
+[33m0ffeaf9[m HEAD@{105}: commit: SELECT AND ORDER BY CLAUSE
+[33me6da02b[m refs/heads/main@{106}: commit: performed case when on flipkart data
+[33me6da02b[m HEAD@{106}: commit: performed case when on flipkart data
+[33ma783ac5[m refs/remotes/origin/main@{50}: update by push
+[33ma783ac5[m refs/heads/main@{107}: commit: Implemented CHECK, UPDATE,DELETE
+[33ma783ac5[m HEAD@{107}: commit: Implemented CHECK, UPDATE,DELETE
+[33m1ed6fa7[m refs/remotes/origin/main@{51}: update by push
+[33m1ed6fa7[m refs/heads/main@{108}: commit: Implemented the FOREIGN KEY
+[33m1ed6fa7[m HEAD@{108}: commit: Implemented the FOREIGN KEY
+[33m983ec3a[m refs/remotes/origin/main@{52}: update by push
+[33m983ec3a[m refs/heads/main@{109}: commit: closing the connection
+[33m983ec3a[m HEAD@{109}: commit: closing the connection
+[33ma51727d[m refs/heads/main@{110}: commit: Created sample.db for practicing sql
+[33ma51727d[m HEAD@{110}: commit: Created sample.db for practicing sql
+[33m9bbb53a[m refs/remotes/origin/main@{53}: update by push
+[33m9bbb53a[m refs/heads/main@{111}: commit: Practicing sql on kaggle data
+[33m9bbb53a[m HEAD@{111}: commit: Practicing sql on kaggle data
+[33m1ee4f8b[m refs/remotes/origin/HEAD@{0}: fetch
+[33m1ee4f8b[m refs/remotes/origin/main@{54}: update by push

@@ -1,0 +1,8 @@
+[33mcommit 9c682d946c49aab08c5e6fc7ec12b493161aaf58[m
+Author: Ved <askrocks2001@gmail.com>
+Date:   Sat Jul 4 02:47:40 2026 +0530
+
+    Window Function: lag( ) and lead( )
+
+ SQL/Window function 2 ( pw ).sql | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
