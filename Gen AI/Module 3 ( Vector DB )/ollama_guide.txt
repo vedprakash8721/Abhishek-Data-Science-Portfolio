@@ -1,0 +1,4 @@
+Ollama is an open-source tool designed to run large language models locally on your personal computer,
+such as a laptop or workstation. It supports various models like Llama 3, Phi-3, and Gemma.
+Running models locally via Ollama ensures complete data privacy, offline usability, and zero API costs compared to cloud-based services like OpenAI or Anthropic. It abstracts away the complexity of managing hardware and weights,
+allowing developers to interact with local models via simple command-line tools or REST APIs.

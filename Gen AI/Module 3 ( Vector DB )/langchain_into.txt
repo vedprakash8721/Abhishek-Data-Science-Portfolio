@@ -1,0 +1,4 @@
+LangChain is an open-source framework designed to simplify the creation of applications using large language models.
+ As a language model integration framework,
+LangChain's core idea is that we can "chain" together different components to create more advanced use cases around LLMs. Examples include prompt templates, document loaders, vector stores, and autonomous agents. By using LCEL (LangChain Expression Language) with the pipe operator (|),
+developers can build clean, modular, and efficient AI pipelines.
