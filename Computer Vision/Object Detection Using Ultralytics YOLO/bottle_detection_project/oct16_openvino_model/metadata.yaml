@@ -1,0 +1,24 @@
+description: Ultralytics YOLO26n model trained on /content/shahed-136-3/data.yaml
+author: Ultralytics
+date: '2026-10-19T12:23:42.433826+05:30'
+version: 8.4.174
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+head: Detect
+batch: 1
+imgsz:
+- 512
+- 512
+names:
+  0: shahed-136
+args:
+  data: null
+  batch: 1
+  fraction: 1.0
+  quantize: null
+  nms: null
+  dynamic: false
+channels: 3
+end2end: false
